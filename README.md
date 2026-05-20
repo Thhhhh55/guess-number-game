@@ -1,2 +1,2 @@
 # guess-number-game
-猜数字
+答案为100的猜数字小游戏
